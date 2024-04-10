@@ -7,7 +7,7 @@ Se tiene 2 escenarios de pruebas
 
 **Ejecución por Terminal**
 
-Para ejecutar y generar la documentación viva con serenity se debe desde la ventana de comandos o terminal se ejecute la siguiente linea
+Para ejecutar y generar la documentación viva con serenity, se realiza desde una ventana de comandos o terminal y se ejecute la siguiente linea
 
 **./gradlew clean test aggregate**
 
